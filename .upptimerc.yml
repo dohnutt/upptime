@@ -7,8 +7,10 @@ sites:
     url: https://dohnutt.com
   - name: ericmoss.ca
     url: https://ericmoss.ca
-  - name: google.ca
-    url: https://www.google.com
+  - name: Plex
+    url: $SITE_PLEX_DOHNET
+  - name: Dohnet services
+    url: $SITE_TV_DOHNUTT
 
 status-website:
   cname: status.dohnutt.com
@@ -17,8 +19,6 @@ status-website:
   #themeUrl: https://status.dohnutt.com/theme.css
   logoUrl: https://status.dohnutt.com/apple-donut-96x96.png
   name: Uptime
-  #introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  #introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
       href: /
