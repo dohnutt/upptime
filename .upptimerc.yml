@@ -7,8 +7,9 @@ sites:
     url: https://dohnutt.com
   - name: ericmoss.ca
     url: https://ericmoss.ca
-  - name: Plex
+  - name: Dohnet on Plex
     url: $SITE_PLEX_DOHNET
+    slug: plex
   - name: Dohnet services
     url: $SITE_TV_DOHNUTT
 
