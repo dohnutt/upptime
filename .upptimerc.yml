@@ -16,7 +16,7 @@ status-website:
   cname: status.dohnutt.com
   #baseUrl: /your-repo-name
   robotsText: "User-agent: * \n Disallow: /"
-  #themeUrl: https://status.dohnutt.com/theme.css
+  themeUrl: https://status.dohnutt.com/theme.css
   logoUrl: https://status.dohnutt.com/apple-donut-96x96.png
   name: Uptime
   navbar:
