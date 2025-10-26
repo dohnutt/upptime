@@ -13,6 +13,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.dohnutt.com
   # baseUrl: /your-repo-name
+  robotsText: "User-agent: * \n Disallow: /"
   logoUrl: https://dohnutt.com/hotlinked/apple-donut.png
   name: Uptime
   # introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
