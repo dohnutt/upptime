@@ -6,7 +6,7 @@
   --body-background-color: var(--colour-tertiary);
   --body-text-color: var(--colour-primary);
   --card-background-color: var(--colour-tertiary);
-  --nav-background-color: #0d2f6e;
+  --nav-background-color: transparent;
   --nav-border-bottom-color: #002d80;
   --nav-current-border-bottom-color: var(--colour-primary);
   --card-border-color: #002d80;
@@ -18,13 +18,23 @@
   --tag-up-background-color: var(--colour-secondary);
   --tag-down-background-color: #eb3b5a;
   --tag-degraded-background-color: #f7b731;
-  --change-background-color: #f7b731;
+  --change-background-color: var(--colour-secondary);
   --error-button-border-color: #1a46ad;
   --error-button-background-color: #3867d6;
   --error-button-color: #ffffff;
   --submit-button-border-color: #1a46ad;
   --submit-button-background-color: #3867d6;
   --submit-button-color: #ffffff;
-  --graph-opacity: 1;
+  --graph-opacity: 0.5;
   --graph-filter: none;
+}
+
+body {
+  font-family: "Space Mono", SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+}
+
+@media screen and (min-width: 768px) {
+  body {
+    font-size: 1.25rem;
+  }
 }
