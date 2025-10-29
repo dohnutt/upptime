@@ -3,24 +3,24 @@ owner: dohnutt # Your GitHub organization or username, where this repository liv
 repo: upptime # The name of this repository
 user-agent: dohnutt
 sites:
-  - name: dohnutt.com
-    url: https://dohnutt.com
-  - name: ericmoss.ca
-    url: https://ericmoss.ca
   - name: Dohnet on Plex
     url: $SITE_PLEX_DOHNET
     slug: plex
   - name: Dohnet services
     url: $SITE_TV_DOHNUTT
+  - name: dohnutt.com
+    url: https://dohnutt.com
+  - name: ericmoss.ca
+    url: https://ericmoss.ca
 
 status-website:
-  cname: status.dohnutt.com
+  cname: status.dohnet.net
   #baseUrl: /your-repo-name
-  favicon: https://status.dohnutt.com/apple-donut-96x96.png
+  favicon: https://status.dohnet.net/apple-donut-96x96.png
   robotsText: "User-agent: * \n Disallow: /"
   customHeadHtml: '<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">'
-  themeUrl: https://status.dohnutt.com/theme.css
-  logoUrl: https://status.dohnutt.com/apple-donut-96x96.png
+  themeUrl: https://status.dohnet.net/theme.css
+  logoUrl: https://status.dohnet.net/apple-donut-96x96.png
   name: Uptime
   navbar:
     - title: Status
