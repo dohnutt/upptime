@@ -4,19 +4,19 @@
     "url": "$SITE_PLEX_DOHNET",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "plex",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 93,
-    "timeDay": 74,
-    "timeWeek": 101,
-    "timeMonth": 93,
-    "timeYear": 93,
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
+    "time": 92,
+    "timeDay": 79,
+    "timeWeek": 100,
+    "timeMonth": 92,
+    "timeYear": 92,
     "dailyMinutesDown": {
-      "2025-11-03": 0
+      "2025-11-03": 10
     }
   },
   {
