@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "plex",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 97,
-    "timeDay": 76,
-    "timeWeek": 104,
-    "timeMonth": 97,
-    "timeYear": 97,
-    "dailyMinutesDown": {
-      "2025-11-16": 7
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 98,
+    "timeDay": 126,
+    "timeWeek": 107,
+    "timeMonth": 98,
+    "timeYear": 98,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Dohnet services",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 375,
-    "timeDay": 281,
-    "timeWeek": 409,
-    "timeMonth": 375,
-    "timeYear": 375,
+    "time": 378,
+    "timeDay": 479,
+    "timeWeek": 419,
+    "timeMonth": 378,
+    "timeYear": 378,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1194,
-    "timeDay": 1383,
-    "timeWeek": 1328,
-    "timeMonth": 1194,
-    "timeYear": 1194,
+    "time": 1199,
+    "timeDay": 1370,
+    "timeWeek": 1314,
+    "timeMonth": 1199,
+    "timeYear": 1199,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1241,
-    "timeDay": 1451,
-    "timeWeek": 1490,
-    "timeMonth": 1241,
-    "timeYear": 1241,
+    "time": 1250,
+    "timeDay": 1544,
+    "timeWeek": 1435,
+    "timeMonth": 1250,
+    "timeYear": 1250,
     "dailyMinutesDown": {}
   }
 ]
