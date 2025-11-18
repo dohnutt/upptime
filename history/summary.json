@@ -42,19 +42,19 @@
     "url": "https://dohnutt.com",
     "icon": "https://icons.duckduckgo.com/ip3/dohnutt.com.ico",
     "slug": "dohnutt-com",
-    "status": "down",
-    "uptime": "99.61%",
-    "uptimeDay": "91.07%",
-    "uptimeWeek": "98.72%",
-    "uptimeMonth": "99.61%",
-    "uptimeYear": "99.61%",
-    "time": 1173,
-    "timeDay": 939,
-    "timeWeek": 1163,
-    "timeMonth": 1173,
-    "timeYear": 1173,
+    "status": "up",
+    "uptime": "99.57%",
+    "uptimeDay": "90.16%",
+    "uptimeWeek": "98.59%",
+    "uptimeMonth": "99.57%",
+    "uptimeYear": "99.57%",
+    "time": 1172,
+    "timeDay": 981,
+    "timeWeek": 1161,
+    "timeMonth": 1172,
+    "timeYear": 1172,
     "dailyMinutesDown": {
-      "2025-11-18": 128
+      "2025-11-18": 141
     }
   },
   {
@@ -62,19 +62,19 @@
     "url": "https://ericmoss.ca",
     "icon": "https://icons.duckduckgo.com/ip3/ericmoss.ca.ico",
     "slug": "ericmoss-ca",
-    "status": "down",
-    "uptime": "99.61%",
-    "uptimeDay": "91.07%",
-    "uptimeWeek": "98.72%",
-    "uptimeMonth": "99.61%",
-    "uptimeYear": "99.61%",
-    "time": 1206,
-    "timeDay": 813,
-    "timeWeek": 1185,
-    "timeMonth": 1206,
-    "timeYear": 1206,
+    "status": "up",
+    "uptime": "99.57%",
+    "uptimeDay": "90.16%",
+    "uptimeWeek": "98.59%",
+    "uptimeMonth": "99.57%",
+    "uptimeYear": "99.57%",
+    "time": 1202,
+    "timeDay": 862,
+    "timeWeek": 1174,
+    "timeMonth": 1202,
+    "timeYear": 1202,
     "dailyMinutesDown": {
-      "2025-11-18": 128
+      "2025-11-18": 141
     }
   }
 ]
