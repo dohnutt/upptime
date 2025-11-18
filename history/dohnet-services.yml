@@ -1,7 +1,7 @@
 url: $SITE_TV_DOHNUTT
-status: down
-code: 500
-responseTime: 99
-lastUpdated: 2025-11-18T11:57:44.882Z
+status: up
+code: 200
+responseTime: 462
+lastUpdated: 2025-11-18T12:33:12.473Z
 startTime: 2025-10-26T20:32:58.791Z
 generator: Upptime <https://github.com/upptime/upptime>
