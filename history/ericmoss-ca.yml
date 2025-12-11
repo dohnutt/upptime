@@ -1,7 +1,7 @@
 url: https://ericmoss.ca
-status: up
-code: 200
-responseTime: 1629
-lastUpdated: 2025-12-10T23:10:07.046Z
+status: down
+code: 503
+responseTime: 168
+lastUpdated: 2025-12-11T18:26:00.779Z
 startTime: 2025-10-26T19:18:03.009Z
 generator: Upptime <https://github.com/upptime/upptime>
